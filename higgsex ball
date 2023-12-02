@@ -7,7 +7,7 @@ local Bladeball = PhantomForcesWindow:NewSection("BladeBall MainTab V1")
 Bladeball:CreateToggle("Auto Parry", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/wik7123/hi/main/LGBT%20gay%20urmom",true))()
 end) --ok
 
-Bladeball:CreateToggle("Auto Spam V1", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/MC%3ABlade%20Ball%20Spam"))()
+Bladeball:CreateToggle("Auto Spam V1", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/wik7123/hi/main/stopmyse%20x"))()
 end) --ok
 
 Bladeball:CreateToggle("Auto Spam V2", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/wik7123/hi/main/im mama"))()
