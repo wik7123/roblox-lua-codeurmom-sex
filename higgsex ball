@@ -13,6 +13,10 @@ end) --ok
 Bladeball:CreateToggle("Auto Spam V2", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/wik7123/hi/main/im mama"))()
 end) --ok
 
+Bladeball:CreateButton("Auto Spam 2.5V",function()getgenv().SpamSpeed = 10
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wik7123/hi/main/RC7%20Script.txt",true))()
+end)  --ok
+
 Bladeball:CreateButton("REDzHUB", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/eng"))()
 end)
 
